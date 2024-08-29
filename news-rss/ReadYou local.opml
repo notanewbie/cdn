@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>Aggregator News - RSS Export 2024-06-13 11:54:54.292078</title>
+    <title>Aggregator News - RSS Export 2024-08-29 16:13:48.485829</title>
   </head>
   <body>
     <outline text="Entertainment" title="Entertainment">
@@ -92,6 +92,8 @@
       <outline text="About Instagram | Blog" title="About Instagram | Blog" type="rss" htmlUrl="https://about.instagram.com/feed" xmlUrl="https://about.instagram.com/feed"/>
       <outline text="Android - 9to5Google" title="Android - 9to5Google" type="rss" htmlUrl="https://9to5google.com/category/android/feed/" xmlUrl="https://9to5google.com/category/android/feed/"/>
       <outline text="Apple Newsroom" title="Apple Newsroom" type="rss" htmlUrl="https://www.apple.com/newsroom/rss-feed.rss" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss"/>
+      <outline text="bing.com" title="bing.com" type="rss" htmlUrl="https://www.bing.com/news/search?q=spotify.design&amp;qft=interval%3d%229%22+sortbydate%3d%221%22&amp;form=PTFTNR&amp;format=rss" xmlUrl="https://www.bing.com/news/search?q=spotify.design&amp;qft=interval%3d%229%22%20sortbydate%3d%221%22&amp;form=PTFTNR&amp;format=rss"/>
+      <outline text="blog.freeyourgadget.org" title="blog.freeyourgadget.org" type="rss" htmlUrl="https://blog.freeyourgadget.org/feeds/all.atom.xml" xmlUrl="https://blog.freeyourgadget.org/feeds/all.atom.xml"/>
       <outline text="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" title="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" type="rss" htmlUrl="https://www.engadget.com/rss.xml" xmlUrl="https://www.engadget.com/rss.xml"/>
       <outline text="English (US)" title="English (US)" type="rss" htmlUrl="https://blog.twitter.com/en_us/blog.rss" xmlUrl="https://blog.twitter.com/en_us/blog.rss"/>
       <outline text="Gizmodo" title="Gizmodo" type="rss" htmlUrl="https://gizmodo.com/rss" xmlUrl="https://gizmodo.com/rss"/>
