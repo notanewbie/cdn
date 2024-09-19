@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>Aggregator News - RSS Export 2024-08-29 16:13:48.485829</title>
+    <title>Aggregator News - RSS Export 2024-09-19 19:09:45.166887</title>
   </head>
   <body>
     <outline text="Entertainment" title="Entertainment">
@@ -75,6 +75,7 @@
       <outline text="The Times of Israel" title="The Times of Israel" type="rss" htmlUrl="https://www.timesofisrael.com/feed/" xmlUrl="https://www.timesofisrael.com/feed/"/>
       <outline text="The Washington Times stories: Opinion" title="The Washington Times stories: Opinion" type="rss" htmlUrl="https://www.washingtontimes.com/rss/headlines/opinion/" xmlUrl="https://www.washingtontimes.com/rss/headlines/opinion/"/>
       <outline text="TheBlaze" title="TheBlaze" type="rss" htmlUrl="https://www.theblaze.com/feed/" xmlUrl="https://www.theblaze.com/feed/"/>
+      <outline text="theleadingreport.com" title="theleadingreport.com" type="rss" htmlUrl="https://theleadingreport.com/rss" xmlUrl="https://theleadingreport.com/rss"/>
       <outline text="TIMCAST Feed" title="TIMCAST Feed" type="rss" htmlUrl="https://timcast.com/feed/" xmlUrl="https://timcast.com/feed/"/>
       <outline text="U.S. News - Breaking News and Latest Headlines" title="U.S. News - Breaking News and Latest Headlines" type="rss" htmlUrl="https://www.huffpost.com/section/us-news/feed" xmlUrl="https://www.huffpost.com/section/us-news/feed"/>
       <outline text="Unicorn riot" title="Unicorn riot" type="rss" htmlUrl="http://unicornriot.ninja/feed/" xmlUrl="http://unicornriot.ninja/feed/"/>
@@ -92,7 +93,6 @@
       <outline text="About Instagram | Blog" title="About Instagram | Blog" type="rss" htmlUrl="https://about.instagram.com/feed" xmlUrl="https://about.instagram.com/feed"/>
       <outline text="Android - 9to5Google" title="Android - 9to5Google" type="rss" htmlUrl="https://9to5google.com/category/android/feed/" xmlUrl="https://9to5google.com/category/android/feed/"/>
       <outline text="Apple Newsroom" title="Apple Newsroom" type="rss" htmlUrl="https://www.apple.com/newsroom/rss-feed.rss" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss"/>
-      <outline text="bing.com" title="bing.com" type="rss" htmlUrl="https://www.bing.com/news/search?q=spotify.design&amp;qft=interval%3d%229%22+sortbydate%3d%221%22&amp;form=PTFTNR&amp;format=rss" xmlUrl="https://www.bing.com/news/search?q=spotify.design&amp;qft=interval%3d%229%22%20sortbydate%3d%221%22&amp;form=PTFTNR&amp;format=rss"/>
       <outline text="blog.freeyourgadget.org" title="blog.freeyourgadget.org" type="rss" htmlUrl="https://blog.freeyourgadget.org/feeds/all.atom.xml" xmlUrl="https://blog.freeyourgadget.org/feeds/all.atom.xml"/>
       <outline text="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" title="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" type="rss" htmlUrl="https://www.engadget.com/rss.xml" xmlUrl="https://www.engadget.com/rss.xml"/>
       <outline text="English (US)" title="English (US)" type="rss" htmlUrl="https://blog.twitter.com/en_us/blog.rss" xmlUrl="https://blog.twitter.com/en_us/blog.rss"/>
@@ -101,6 +101,7 @@
       <outline text="Meta" title="Meta" type="rss" htmlUrl="https://about.fb.com/feed" xmlUrl="https://about.fb.com/feed"/>
       <outline text="Reclaim The Net" title="Reclaim The Net" type="rss" htmlUrl="https://reclaimthenet.org/rss" xmlUrl="https://reclaimthenet.org/rss"/>
       <outline text="Reddit" title="Reddit" type="rss" htmlUrl="https://www.reddit.com/r/reddit/.rss" xmlUrl="https://www.reddit.com/r/reddit/.rss"/>
+      <outline text="Spotify Design" title="Spotify Design" type="rss" htmlUrl="https://spotify.design/rss.xml" xmlUrl="https://spotify.design/rss.xml"/>
       <outline text="Stories by Medium on Medium" title="Stories by Medium on Medium" type="rss" htmlUrl="https://medium.com/feed/%40medium" xmlUrl="https://medium.com/feed/%40medium"/>
       <outline text="Tech" title="Tech" type="rss" htmlUrl="https://www.huffpost.com/section/technology/feed" xmlUrl="https://www.huffpost.com/section/technology/feed"/>
     </outline>
